@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gaoyong Han</h1>
 <h3 align="center">A PhD student from Tianjin University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hangaoyong&label=Profile%20views&color=0e75b6&style=flat" alt="hangaoyong" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hangaoyong&show_icons=true&locale=en&layout=compact" alt="hangaoyong" /></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hangaoyong&show_icons=true&locale=en" alt="hangaoyong" /></p>
 
+-   🌏 I come from Henan and now live in Tianjin.
+-   🛠  I'm pursuing a Ph.D., majoring in software engineering.
+-   💬 Wechat：hangaoyong
 
 
 <h3 align="left">Connect with me:</h3>
