@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaoyong Han</h1>
-<h3 align="center">A PhD student from Tianjin University.</h3>
+<h3 align="center">A PhD student from Tianjin University</h3>
 
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hangaoyong&show_icons=true&locale=en" alt="hangaoyong" /></p>
