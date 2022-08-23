@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaoyong Han</h1>
-<h3 align="center">A PhD student from Tianjin University</h3>
+<h3 align="center">A PhD candidate from Tianjin University</h3>
 
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hangaoyong&show_icons=true&locale=en" alt="hangaoyong" /></p>
 
 -   🌏 I come from Henan and now live in Tianjin.
--   🛠  I'm pursuing a Ph.D., majoring in software engineering.
+-   🛠  I'm pursuing a PhD degree, majoring in software engineering.
 -   💬 Wechat：hangaoyong
 <br/>
 <br/>
@@ -16,9 +16,9 @@
 
 <p align="center">
 <a href="https://twitter.com/gaoyong_han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaoyong_han" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hangaoyong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hangaoyong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gaoyong-han-51a08241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaoyong-han-51a08241" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/hangaoyong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hangaoyong" height="30" width="40" /></a>
-<a href="https://fb.com/hangaoyong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hangaoyong" height="30" width="40" /></a>
+<a href="https://fb.com/gaoyong.han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaoyong.han" height="30" width="40" /></a>
 </p>
 
 
