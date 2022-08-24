@@ -11,12 +11,13 @@
 <br/>
 
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with Me:</h2>
 <p align="center">
 <a href="https://twitter.com/gaoyong_han" target="blank"><img align="center" src="./images/twitter.svg" alt="gaoyong_han" height="30" width="40" /></a>
 <a href="https://fb.com/gaoyong.han" target="blank"><img align="center" src="./images/facebook.svg" alt="gaoyong.han" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaoyong-han-51a08241" target="blank"><img align="center" src="./images/linkedin.svg" alt="gaoyong-han-51a08241" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3349503/hangaoyong" target="blank"><img align="center" src="./images/stackoverflow.svg" alt="hangaoyong" height="30" width="40" /></a>
+<a href="https://www.douban.com/people/hangaoyong" target="blank"><img align="center" src="./images/douban.png" alt="hangaoyong" height="30" width="30" /></a>
 </p>
 
 
