@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gaoyong Han</h1>
-
-<h3 align="center">A PhD candidate from Tianjin University</h3>
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hangaoyong&show_icons=true&locale=en" alt="Gaoyong Han's Github stats" /></p>
 
 
@@ -35,6 +33,7 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="./images/pandas.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="./images/seaborn.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="./images/matlab.png" alt="matlab" width="40" height="40"/> </a>
+<a href="https://www.cadence.com/" target="_blank" rel="noreferrer"> <img src="./images/cadence.svg" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="./images/ps.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="./images/ai.svg" alt="illustrator" width="40" height="40"/> </a>
 </p>
