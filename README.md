@@ -17,6 +17,8 @@
 <a href="https://fb.com/gaoyong.han" target="blank"><img align="center" src="./images/facebook.svg" alt="gaoyong.han" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaoyong-han-51a08241" target="blank"><img align="center" src="./images/linkedin.svg" alt="gaoyong-han-51a08241" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3349503/hangaoyong" target="blank"><img align="center" src="./images/stackoverflow.svg" alt="hangaoyong" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Gaoyong-Han" target="blank"><img align="center" src="./images/researchgate.svg" alt="Gaoyong-Han" height="30" width="40" /></a>
+<a href="https://weibo.com/u/2053171181" target="blank"><img align="center" src="./images/weibo.png" alt="2053171181" height="30" width="30" /></a>
 <a href="https://www.douban.com/people/hangaoyong" target="blank"><img align="center" src="./images/douban.png" alt="hangaoyong" height="30" width="30" /></a>
 </p>
 
