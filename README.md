@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaoyong Han</h1>
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hangaoyong&show_icons=true&locale=en" alt="Gaoyong Han's Github stats" /></p>
 
-- &#x1F3EB; I work at Zhongyuan University of Technology.  
-<!-- - &#x1f30f; I come from Henan and now live in Zhengzhou. -->
+- &#x1F3EB; I work at Zhongyuan University of Technology.
 - &#x1f393; I received my PhD from Tianjin University.
 - &#x1f5a5; I major in software engineering.
 - &#x1F3BE; My favourite sports is tennis and football.
